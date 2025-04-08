@@ -1,0 +1,14 @@
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\MyArrayListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\MyArrayListProject.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\MyArrayListProject.AssemblyInfo.cs
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\MyArrayListProject.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\bin\Debug\net8.0\MyArrayListProject.exe
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\bin\Debug\net8.0\MyArrayListProject.deps.json
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\bin\Debug\net8.0\MyArrayListProject.runtimeconfig.json
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\bin\Debug\net8.0\MyArrayListProject.dll
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\bin\Debug\net8.0\MyArrayListProject.pdb
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\MyArrayListProject.dll
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\refint\MyArrayListProject.dll
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\MyArrayListProject.pdb
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\MyArrayListProject.genruntimeconfig.cache
+C:\Users\aline\source\repos\MyArrayListProject\MyArrayListProject\obj\Debug\net8.0\ref\MyArrayListProject.dll
